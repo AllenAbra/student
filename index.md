@@ -12,7 +12,7 @@ This is my home page with fun facts about me!
 
 Allen! yep 
 
-IMPORTANT INFORMATION:
+## IMPORTANT INFORMATION:
 - My favorite color is Purple 
 - My spirit animal is birds
 - I love baking!!!
