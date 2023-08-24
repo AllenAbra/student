@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Student Blog
+title: Allen's Blog
 ---
 
 
-## Allen's Home Page  
+# Allen's Home Page  
 
 This is my home page with fun facts about me!
 
 ## About Me
 
-Allen! yep 
+I am from San Diego, I have two siblings and I love reading. 
 
 ## IMPORTANT INFORMATION:
 - My favorite color is Purple 
-- My spirit animal is birds
+- My favorite animals are cows
 - I love baking!!!
 
 ![Collage about me](images/My_Drawing.png "Allen Collage")
