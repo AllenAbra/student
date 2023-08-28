@@ -2,7 +2,7 @@
 toc: true
 layout: post 
 title: Tic-Tac-Toe
-courses: { compsci: {week:2} }
+courses: { CSSE: {week:2} }
 type: tangibles
 ---
 <!DOCTYPE html>
