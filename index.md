@@ -18,3 +18,4 @@ I am from San Diego, I have two siblings and I love reading.
 - I love baking!!!
 
 ![Collage about me](images/My_Drawing.png "Allen Collage")
+
